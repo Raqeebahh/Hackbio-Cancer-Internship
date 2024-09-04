@@ -35,8 +35,6 @@ Moasser, M. M. (2007). The oncogene HER2: Its signaling and transforming functio
 
 Mok, T. S., et al. (2009). Gefitinib or chemotherapy for EGFR-mutated lung cancer. _The New England Journal of Medicine, 361_(10), 947-957.
 
-Moore, C. D., Ajala, O. Z., & Zhu, H. (2016). Applications in high-content functional protein microarrays. _Current Opinion in Chemical Biology, 30_, 21-27.
-
 Soussi, T., & Wiman, K. G. (2015). TP53: An oncogene in disguise. _Cell Death & Differentiation, 22_(8), 1239-1249.
 
 Strimbu, K., & Tavel, J. A. (2010). What are biomarkers? _Current Opinion in HIV and AIDS, 5_(6), 463-466.
