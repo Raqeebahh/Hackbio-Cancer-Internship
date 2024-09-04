@@ -10,8 +10,6 @@ The central dogma of molecular biology, first articulated by Francis Crick in 19
 
 Biomarkers, defined as measurable indicators of biological processes, are critical for early diagnosis, prognosis, and therapeutic decisions in oncology (Strimbu & Tavel, 2010). By elucidating the molecular changes that drive cancer, the central dogma guides the identification of DNA, RNA, and protein-based biomarkers
 
-![Fig 2: Central Dogma of Molecular Biology in a Bioinformatics perspective](https://www.researchgate.net/profile/Ana-Araujo-12/publication/316437647/figure/fig4/AS:646090261028864@1531051330049/The-relationship-between-the-central-dogma-of-molecular-biology-and-the-omics-cascade_W640.jpg)
-
 
 **DNA Biomarkers in Cancer**
 
