@@ -1,4 +1,8 @@
-**Central Dogma of Molecular Biology: Introduction**
+**Central Dogma of Molecular Biology.**
+
+**Introduction**
+
+Author (@slack): Raqeebat Rafiu (@raqeebahh)
 
 The central dogma of molecular biology, first articulated by Francis Crick in 1958, is a theory stating that genetic information flows only in one direction, from DNA, to RNA, to protein, or RNA directly to protein.
 
