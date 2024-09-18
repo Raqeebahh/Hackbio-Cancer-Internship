@@ -1,4 +1,4 @@
-# this is stage 2 HackBio Cancer Bioinformatics task
+# This is stage 2 HackBio Cancer Bioinformatics task
 
 # setting up working directories 
 # getwd()
