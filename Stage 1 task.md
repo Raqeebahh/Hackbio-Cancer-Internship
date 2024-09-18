@@ -1,6 +1,6 @@
 # Title: Literature Review Summary on Integrated Genomic Analyses of Ovarian Carcinoma.
 
-**Authors:** Raqeebat Rafiu, Niguse Kelile Lema, Abdulqudus Oladega, Zaka Ullah 
+**Authors:** Raqeebat Rafiu, Niguse Kelile Lema, Abdulqudus Oladega, Zaka Ullah. 
 
 **Link to Original Article:** https://www.nature.com/articles/nature10166
 
