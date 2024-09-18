@@ -1,6 +1,6 @@
-**Central Dogma of Molecular Biology.**
+# **Central Dogma of Molecular Biology.**
 
-**Introduction**
+## **Introduction**
 
 Author (@slack): Raqeebat Rafiu (@raqeebahh)
 
@@ -10,9 +10,9 @@ The central dogma of molecular biology, first articulated by Francis Crick in 19
 ![Fig. 1: The Central Dogma of Molecular Biology](https://www.genome.gov/sites/default/files/media/images/2022-05/Central-dogma.jpg)
 
 
-**Central Dogma of Molecular Biology as a concept of Biomarker Discovery in Cancer**
+## **Central Dogma of Molecular Biology as a concept of Biomarker Discovery in Cancer**
 
-Biomarkers, defined as measurable indicators of biological processes, are critical for early diagnosis, prognosis, and therapeutic decisions in oncology (Strimbu & Tavel, 2010). By elucidating the molecular changes that drive cancer, the central dogma guides the identification of DNA, RNA, and protein-based biomarkers
+Biomarkers, defined as measurable indicators of biological processes, are critical for early diagnosis, prognosis, and therapeutic decisions in oncology (Strimbu & Tavel, 2010). By elucidating the molecular changes that drive cancer, the central dogma guides the identification of DNA, RNA, and protein-based biomarkers.
 
 
 **DNA Biomarkers in Cancer**
@@ -27,17 +27,15 @@ RNA biomarkers, particularly mRNA and non-coding RNA, are critical in cancer bio
 
 Proteins, as the end products of gene expression, are crucial for functional studies in cancer. Prostate-specific antigen (PSA) is a classic example of a protein biomarker widely used for prostate cancer screening. Advances in proteomics have identified numerous cancer-associated proteins, such as CA-125 for ovarian cancer and carcinoembryonic antigen (CEA) for colorectal cancer, aiding in early detection and treatment monitoring (Henry & Hayes, 2012).
 
-**Conclusion**
+## **Conclusion**
 
 The central dogma of molecular biology provides a framework for understanding the molecular basis of cancer and discovering novel biomarkers. By tracing the path from DNA mutations to aberrant protein function, researchers can identify critical targets for cancer diagnosis and therapy, ultimately improving patient outcomes.
 
-**References**
+## **References**
 
 Henry, N. L., & Hayes, D. F. (2012). Cancer biomarkers. _Molecular Oncology, 6_(2), 140-146.
 
 Moasser, M. M. (2007). The oncogene HER2: Its signaling and transforming functions and its role in human cancer pathogenesis. _Oncogene, 26_(4), 6469-6487.
-
-Mok, T. S., et al. (2009). Gefitinib or chemotherapy for EGFR-mutated lung cancer. _The New England Journal of Medicine, 361_(10), 947-957.
 
 Soussi, T., & Wiman, K. G. (2015). TP53: An oncogene in disguise. _Cell Death & Differentiation, 22_(8), 1239-1249.
 
