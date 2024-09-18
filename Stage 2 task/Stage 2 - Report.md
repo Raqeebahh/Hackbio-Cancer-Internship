@@ -6,20 +6,20 @@
 
 **Link to dataset:** https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv
 
-**Overview:**
+## **Overview:**
 
-A glioblastoma gene expression dataset was analyzed using an R script for preprocessing, statistical analysis, and visualization with plots and heatmaps.The dataset and libraries (gplots) were loaded into R Studio to create customized heatmaps, displaying genes and samples with similar expression patterns. Two heatmap versions, using diverging and sequential color palettes, were generated to enhance the visual grouping of genes and samples. Fold change and p-values were calculated after grouping the data, with p-values determined via t-test. The results were visualized using a scatter plot of fold change and -log10(p-value). Up-regulated genes had a cutoff of log2(1.5), and down-regulated genes had a cutoff of log2(0.16), with a p-value of 0.05 indicating statistical significance. The up- and down-regulated genes were then displayed.
+A glioblastoma gene expression dataset was analyzed using an R script for preprocessing, statistical analysis, and visualization with plots and heatmaps.The dataset and libraries (gplots) were loaded into R Studio to create customized heatmaps, displaying genes and samples with similar expression patterns. Two heatmap versions, using diverging and sequential color palettes, were generated to enhance the visual grouping of genes and samples. Fold change and p-values were calculated after grouping the data, with p-values determined via t-test. The results were visualized using a scatter plot of fold change and -log10(p-value). Up-regulated genes had a cutoff of log2(1.5), and down-regulated genes had a cutoff of log2(0.16), with a p-value of 0.05 indicating statistical significance. The up-regulated and down-regulated genes were then displayed.
 
 ## **Research findings:**
 
 **Task 1 (a):** Generation of heatmap for the entire dataset using a diverging and sequential colour palette.
 
 ![Diverging Heatmap](https://github.com/user-attachments/assets/1dbb6e36-d1b6-48dd-8cd8-9879766abeac)
-Fig. 1: Heatmap with diverging colour palette
+Fig. 1: Heatmap with diverging colour palette.
 
 
 ![Sequential Heatmpa](https://github.com/user-attachments/assets/427d3354-14e8-4fc3-98a5-53dcbdf410a2)
-Fig. 2: Heatmap with sequential colour palette
+Fig. 2: Heatmap with sequential colour palette.
 
 **Task 1 (b):**
 **Importance of Color Selection for Data Interpretation:**
@@ -44,7 +44,7 @@ Fig. 5: Clusters of genes and samples.
 
 ![Aspose Words 9227c33d-5700-4d0c-8026-8540b867fd27 004](https://github.com/user-attachments/assets/842e9f21-e550-4a04-97d9-29dcfb1c258a)
 
-Fig. 6: Volcano plot of glioblastoma dataset
+Fig. 6: Volcano plot of glioblastoma dataset.
 
 **Task 4:** Functional enrichment analysis was carried out using ShinyGO, to identify biological pathways that are significantly overrepresented in the gene expression dataset.
 
