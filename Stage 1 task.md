@@ -1,10 +1,12 @@
-# Title: Literature Review Summary on Integrated Genomic Analyses of Ovarian Carcinoma
+# Title: Literature Review Summary on Integrated Genomic Analyses of Ovarian Carcinoma.
 
-Niguse Kelile Lema, Raqeebat Rafiu, Abdulqudus Oladega, Zaka Ullah 
+**Authors:** Raqeebat Rafiu, Niguse Kelile Lema, Abdulqudus Oladega, Zaka Ullah 
+
+**Link to Original Article:** https://www.nature.com/articles/nature10166
 
 ## Introduction
 
-High-Grade Serous Ovarian Carcinoma (HGS-OvCa) is the fifth leading cause of cancer-related deaths among women in the United States (*Sung et al, 2021*). This cancer type is characterized by high genetic complexity with poor survival rates. The standard treatment for HGS-OvCa Surgery followed by platinum-taxane chemotherapy. The main objective of this article is to understand the Genetic Landscape of High-Grade Serous Ovarian Cancer (HGS-OvCa).
+High-Grade Serous Ovarian Carcinoma (HGS-OvCa) is the fifth leading cause of cancer-related deaths among women in the United States (*Sung et al., 2021*). This cancer type is characterized by high genetic complexity with poor survival rates. The standard treatment for HGS-OvCa Surgery followed by platinum-taxane chemotherapy. The main objective of this article is to understand the Genetic Landscape of High-Grade Serous Ovarian Cancer (HGS-OvCa).
 
 ## TP53 mutations
 One of the key finding of this article is nearly all tumors (96%) exhibits TP53 Mutations, a tumors suppressor gene and play crucial role in regulating cell division and preventing cancer. Mutation in TP53 gene indicates uncontrolled cell growth and continues proliferation of cancerous cells. Additionally, low-frequency recurrent mutation were also observed in genes such as BRCA1, BRCA2, NF1, RB1, CDK12. The study also highlights the presence of copy number aberrations and DNA methylation changes.
