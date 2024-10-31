@@ -12,7 +12,7 @@ Gliomas are a type of brain tumor originating from glial cells, which support ne
 
 ## Methodology and Results
 
-### Data Acquastion and Preprocessing Steps
+### Data Acquisition and Preprocessing Steps
 Once the data is downloaded, it is prepared for analysis using GDCprepare, which organizes the data into usable formats. 
 The raw counts for both LGG and GBM are extracted and stored for further processing.
 The next phase involves preparing the metadata associated with the datasets. 
