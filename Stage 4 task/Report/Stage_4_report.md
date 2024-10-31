@@ -1,4 +1,4 @@
-# Differential Gene Expersion Analysis and Machine Learning of Gliomas
+# Differential Gene Expression Analysis and Machine Learning of Gliomas
 
 ## Authors:
 Niguse Kelile Lema (@King),
