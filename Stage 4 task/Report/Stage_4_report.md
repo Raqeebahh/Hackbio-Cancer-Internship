@@ -50,13 +50,13 @@ This clustering analysis helps uncover underlying patterns in gene expression an
 
 
 ![K-means Clustering](https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/images/K-means%20clustering.png)
-*Figure 3: K-meansd clustering*
+*Figure 3: K-means clustering*
 
 ## Conclusion
 The K-means clustering analysis identified four distinct clusters. However, when compared to the IDH status, both Mutant and Wild Type samples were present in all four clusters. This suggests that the model did not clearly differentiate the samples into distinct Wild Type and Mutant groups. Moreover, two of the clusters showed overlap, indicating that the boundaries between them were not sharply defined. As a result, the clustering did not achieve the expected separation between Mutant and Wild Type samples. 
 
-### Rscript: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/code/Task%205%20(Stage%204)_Pipeline_Implementation_ll.R
-### Report: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/report/Stage_4_report.md
+### Rscript: https://github.com/Raqeebahh/Hackbio-Cancer-Internship/blob/9c3f560a221de0d13025161a1828b6b64719efec/Stage%204%20task/Code/Task%205%20(Stage%204)_Pipeline_Implementation_ll.R
+### Report: 
 
 ## References
 1. Ceccarelli, M., Barthel, F. P., Malta, T. M., Sabedot, T. S., Salama, S. R., Murray, B. A., Morozova, O., Newton, Y., Radenbaugh, A., Pagnotta, S. M., Anjum, S., Wang, J., Manyam, G., Zoppoli, P., Ling, S., Rao, A. A., Grifford, M., Cherniack, A. D., Zhang, H., … Verhaak, R. G. W. (2016). Molecular Profiling Reveals Biologically Discrete Subsets and Pathways of Progression in Diffuse Glioma. Cell, 164(3), 550–563. https://doi.org/10.1016/j.cell.2015.12.028
